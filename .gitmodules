@@ -1,0 +1,9 @@
+[submodule "simpleTBEM"]
+	path = simpleTBEM
+	url = git@github.com:pradovera/simpleTBEM.git
+[submodule "gMRI"]
+	path = gMRI
+	url = git@github.com:pradovera/gMRI.git
+[submodule "match_1pEVP"]
+	path = match_1pEVP
+	url = git@github.com:pradovera/match_1pEVP.git
