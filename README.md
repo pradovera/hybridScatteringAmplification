@@ -5,6 +5,8 @@ This repository contains minimal code for running the numerical examples in the 
 
 D. Pradovera, R. Hiptmair, and I. Perugia, _Surrogate modeling of resonant behavior in scattering problems through adaptive rational approximation and sketching_, (2025)
 
+DOI at publisher: [https://doi.org/10.1007/s10915-025-03020-x](https://doi.org/10.1007/s10915-025-03020-x)
+
 Preprint link: [https://arxiv.org/abs/2503.10194](https://arxiv.org/abs/2503.10194)
 
 
